@@ -8,7 +8,7 @@ title: Publications
 
 ## Journal Paper
 
-- Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision<br>Hanlin Cai, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>[arXiv](https://arxiv.org/abs/2503.23446). Submitted to IEEE Communications Standards Magazine.
+- Lycorine Pre-Treatment Alleviates Microglia Inflammation After Cerebral Ischemia by Inhibiting NF-κB Phosphorylation | Brain Sciences (MDPI, IF:3.3), Co-first author<br>Hanlin Cai, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>[arXiv](https://arxiv.org/abs/2503.23446). Submitted to IEEE Communications Standards Magazine.
 
 ## Conference Paper
 

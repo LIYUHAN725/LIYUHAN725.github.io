@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="" class="floatpic">
 
 Here is **Yuhan Li (李宇涵)**.<br>
 
@@ -46,3 +46,33 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ### 06/2024 - 08/2024: Shenzhen Yantian Hospital | Shenzhen, China
 
 - Involved in auditing over 100 outpatient prescriptions per day for potential drug-related risks.
+
+---
+
+## Skills
+
+### Wet Lab
+
+- Cell culture (BV-2 microglial cells)
+- MTT cell viability assay
+- Immunofluorescence staining (Phalloidin-FITC/DAPI)
+- RT-qPCR
+- Western blotting
+- Rat MCAO model surgery (middle cerebral artery occlusion)
+- TTC staining for infarct volume measurement
+- Multiplex cytokine profiling (BD FACSAria III flow cytometry)
+- H&E staining / Immunohistochemistry (IHC) staining
+
+### Data Analysis
+
+- GraphPad
+- ImageJ
+
+### Programming
+
+- Python(Michigan University Certified)
+
+### Language
+
+- Mandarin(Native)
+- English(Fluent)
