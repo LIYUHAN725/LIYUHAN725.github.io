@@ -12,6 +12,8 @@ I am a graduate student in the at the University of Macau University of Science 
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **1210013027@student.must.edu.mo**
 
+  <br>
+
 ---
 
 ## Research Interests
@@ -19,6 +21,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Neurobiology
 - Oncology
 - Targeted Therapeutic
+
+  <br>
 
 ---
 
@@ -35,6 +39,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Presented poster “Molecular Insights into Traditional Chinese Medicine Compounds for the Treatment of Ischemic Stroke”.
 - Featured Target protein and compound selection & Molecular dynamics simulation & RNA-seq data analysis.
 
+  <br>
+
 ---
 
 ## Professional Experience
@@ -46,6 +52,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ### 06/2024 - 08/2024: Shenzhen Yantian Hospital | Shenzhen, China
 
 - Involved in auditing over 100 outpatient prescriptions per day for potential drug-related risks.
+
+  <br>
 
 ---
 
@@ -76,3 +84,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - Mandarin(Native)
 - English(Fluent)
+
+ <br>
+
+<br>
