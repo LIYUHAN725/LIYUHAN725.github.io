@@ -4,6 +4,8 @@ layout: page
 
 # About Me
 
+  <br>
+
 <img src="" class="floatpic">
 
 Here is **Yuhan Li (李宇涵)**.<br>
@@ -18,6 +20,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
+ <br>
+
 - Neurobiology
 - Oncology
 - Targeted Therapeutic
@@ -28,13 +32,15 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Experience
 
-**09/2021 - Present (Total 5000 hours): State Key Laboratory of Quality Research in Chinese Medicine (SKL) | Macau, China**
+  <br>
+
+### 09/2021 - Present (Total 5000 hours): State Key Laboratory of Quality Research in Chinese Medicine (SKL) | Macau, China
 
 - Mainly engaged in Ischemic Stroke & Lycorine, with secondary involvement in Exosome isolation and characterization.
 - Techniques: MCAO rodent models, qPCR, WB, Experimental design.
 - Co-authored 2 SCI papers (1 co-first author) 
 
-**2024: Drug Discovery 2024 | Boston, USA**
+### 2024: Drug Discovery 2024 | Boston, USA
 
 - Presented poster “Molecular Insights into Traditional Chinese Medicine Compounds for the Treatment of Ischemic Stroke”.
 - Featured Target protein and compound selection & Molecular dynamics simulation & RNA-seq data analysis.
@@ -44,6 +50,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## Professional Experience
+
+  <br>
 
 ### 06/2023 - 08/2023: Shenzhen Dakewe Biotech Co., Ltd. | Shenzhen, China
 
@@ -58,6 +66,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## Skills
+
+  <br>
 
 ### Wet Lab
 
