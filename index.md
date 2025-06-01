@@ -10,8 +10,6 @@ layout: page
 
 Here is **Yuhan Li (李宇涵)**.<br>
 
-I am a graduate student in the at the University of Macau University of Science and Technology (MUST). 
-
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **1210013027@student.must.edu.mo**
 
   <br>
@@ -19,8 +17,6 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## Research Interests
-
- <br>
 
 - Neurobiology
 - Oncology
@@ -31,8 +27,6 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## Research Experience
-
-  <br>
 
 ### 09/2021 - Present (Total 5000 hours): State Key Laboratory of Quality Research in Chinese Medicine (SKL) | Macau, China
 
@@ -51,8 +45,6 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Professional Experience
 
-  <br>
-
 ### 06/2023 - 08/2023: Shenzhen Dakewe Biotech Co., Ltd. | Shenzhen, China
 
 - Processed over 50 tissue samples to compare the performance of a novel staining reagent developed by the company against the target product using hematoxylin and eosin (H&E) staining and immunohistochemistry (IHC), including samples from lung, bladder, and pancreatic cancers.
@@ -66,8 +58,6 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## Skills
-
-  <br>
 
 ### Wet Lab
 
