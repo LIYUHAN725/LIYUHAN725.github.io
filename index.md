@@ -28,13 +28,13 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Experience
 
-### 09/2021 - Present (Total 5000 hours): State Key Laboratory of Quality Research in Chinese Medicine (SKL) | Macau, China
+**09/2021 - Present (Total 5000 hours): State Key Laboratory of Quality Research in Chinese Medicine (SKL) | Macau, China**
 
 - Mainly engaged in Ischemic Stroke & Lycorine, with secondary involvement in Exosome isolation and characterization.
 - Techniques: MCAO rodent models, qPCR, WB, Experimental design.
 - Co-authored 2 SCI papers (1 co-first author) 
 
-### 2024: Drug Discovery 2024 | Boston, USA
+**2024: Drug Discovery 2024 | Boston, USA**
 
 - Presented poster “Molecular Insights into Traditional Chinese Medicine Compounds for the Treatment of Ischemic Stroke”.
 - Featured Target protein and compound selection & Molecular dynamics simulation & RNA-seq data analysis.
