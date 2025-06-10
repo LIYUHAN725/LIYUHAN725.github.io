@@ -9,15 +9,18 @@ layout: page
 <img src="" class="floatpic">
 
 Hi, I'm Yuhan Li – a pharmacology explorer at Macau University of Science and Technology! In our State Key Lab, I've published two SCI papers on inflammation pathways while actively investigating cerebrovascular and ion channel mysteries.
-My journey extends beyond the lab:
+
+**My journey extends beyond the lab:**
 • Dived into pathology research at Dakewei Biotech
 • Decoded clinical pharmacy operations at Shenzhen Yantian Hospital
 • Gained frontline pediatric experience at China's top-tier Children's Medical Center
-I've also connected with pharma innovators:
+
+**I've also connected with pharma innovators:**
 → Shadowed R&D teams at Fosun Pharma & By-Health
 → Explored genomics at BGI
 → Discussed AI-drug discovery at XtalPi
-Driven to bridge lab breakthroughs with patient impact – let's connect! yuhan.app@outlook.com
+
+Driven to bridge lab breakthroughs with patient impact – let's connect! **[yuhan.app@outlook.com]**
 
   <br>
 
@@ -28,37 +31,6 @@ Driven to bridge lab breakthroughs with patient impact – let's connect! yuhan.
 - Neurobiology
 - Oncology
 - Targeted Therapeutic
-
-  <br>
-
----
-
-## Research Experience
-
-### 09/2021 - Present (Total 5000 hours): State Key Laboratory of Quality Research in Chinese Medicine (SKL) | Macau, China
-
-- Mainly engaged in Ischemic Stroke & Lycorine, with secondary involvement in Exosome isolation and characterization.
-- Techniques: MCAO rodent models, qPCR, WB, Experimental design.
-- Co-authored 2 SCI papers (1 co-first author) 
-
-### 2024: Drug Discovery 2024 | Boston, USA
-
-- Presented poster “Molecular Insights into Traditional Chinese Medicine Compounds for the Treatment of Ischemic Stroke”.
-- Featured Target protein and compound selection & Molecular dynamics simulation & RNA-seq data analysis.
-
-  <br>
-
----
-
-## Professional Experience
-
-### 06/2023 - 08/2023: Shenzhen Dakewe Biotech Co., Ltd. | Shenzhen, China
-
-- Processed over 50 tissue samples to compare the performance of a novel staining reagent developed by the company against the target product using hematoxylin and eosin (H&E) staining and immunohistochemistry (IHC), including samples from lung, bladder, and pancreatic cancers.
-
-### 06/2024 - 08/2024: Shenzhen Yantian Hospital | Shenzhen, China
-
-- Involved in auditing over 100 outpatient prescriptions per day for potential drug-related risks.
 
   <br>
 
