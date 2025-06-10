@@ -16,4 +16,6 @@ title: Awards
 
 <img src="https://LIYUHAN725.github.io/images/Python.png" class="floatpic">
 
+- Aug 2023：**Internship at Shenzhen Dakewe Biotech Co., Ltd.**</br>[[Certificate.pdf](https://LIYUHAN725.github.io/file/Dakewe.pdf)]
+
 <br>
