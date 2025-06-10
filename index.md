@@ -9,17 +9,17 @@ layout: page
 <img src="" class="floatpic">
 
 Hi, I'm Yuhan Li – a pharmacology explorer at Macau University of Science and Technology! In our State Key Lab, I've published two SCI papers on inflammation pathways while actively investigating cerebrovascular and ion channel mysteries.
-
+<br>
 **My journey extends beyond the lab:**
 <br>• Dived into pathology research at Dakewei Biotech
 <br>• Decoded clinical pharmacy operations at Shenzhen Yantian Hospital
 <br>• Gained frontline pediatric experience at China's top-tier Children's Medical Center
-
+<br>
 **I've also connected with pharma innovators:**
 <br>→ Shadowed R&D teams at Fosun Pharma & By-Health
 <br>→ Explored genomics at BGI
 <br>→ Discussed AI-drug discovery at XtalPi
-
+<br>
 Driven to bridge lab breakthroughs with patient impact – let's connect! **[yuhan.app@outlook.com]**
 
   <br>
