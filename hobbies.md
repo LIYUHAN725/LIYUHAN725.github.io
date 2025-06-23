@@ -6,49 +6,31 @@ title: Hobbies
 
 # Hobbies
 
-This page hasn’t been updated for a long time. Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or hiking together, feel free to contact me!
-
 ## Swimming & Surfing
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/b1.JPG">
+<img src="/images/b2.JPG">
+<img src="/images/b3.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
+<br>Badminton energizes my spirit, sharpens my reflexes, and gives me confidence to tackle any obstacle. I particularly love the exhilarating rhythm of quick footwork and precise shots. As a proud member of the Badminton Team at my university, I've also forged lasting friendships with fellow players.
 
-## Workshop
+## Professional Exposure
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/BGI_1.JPG">
+<img src="/images/BGI_2.JPG">
 </div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+<br>Driven by a deep fascination with genomic technologies, I independently arranged a visit to BGI Genomics—a global leader in precision medicine headquartered in Shenzhen, China. I developed a particular fascination with three core domains: 1. Genome sequencing technologies advancing personalized diagnostics; 2. End-to-end data analysis pipelines enabling rapid genomic insights; 3. Population health screening applications leveraging polygenic risk scores. Given the opportunity, I would eagerly continue engaging with BGI's experts to further explore such applications.
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
+<img src="/images/JT.JPG">
 
+<br>Fascinated by the transformative potential of AI in drug discovery, I actively sought opportunities to witness its industrial applications firsthand. Against the backdrop of the AI technology boom and its disruptive impact on pharmaceutical R&D, I was fortunate to arrange a visit to XtalPi—the pioneering quantum physics-based, AI-powered, and robotics-driven drug discovery platform company listed on the Hong Kong Stock Exchange. As Discussed with XtalPi engineers how AI powers novel drug target discovery and development, I got a blueprint for AI drug discovery.
 
-## Past Hobbies
+<div class="third">
+<img src="/images/FX_1.JPG">
+<img src="/images/FX_2.JPG">
+<img src="/images/CYY.JPG">
+<br>I have also joined my university's industry immersion program, exploring cutting-edge biotech hubs.
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
 

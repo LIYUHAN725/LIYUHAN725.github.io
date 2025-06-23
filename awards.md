@@ -12,7 +12,7 @@ title: Awards
 
 <img src="https://LIYUHAN725.github.io/images/1021Poster Edited.png">
 
-<br>
+Certificate of Appreciation
 
 <img src="https://LIYUHAN725.github.io/images/Molecular.png">
 
