@@ -17,13 +17,16 @@ title: Hobbies
 
 ## Professional Exposure
 
-<div class="third">
+<div class="second">
 <img src="/images/BGI_1.JPG">
-<img src="/images/BGI_2.JPG">
+<img src="/images/BGI_2.jpg">
 </div>
-<br>Driven by a deep fascination with genomic technologies, I independently arranged a visit to BGI Genomics—a global leader in precision medicine headquartered in Shenzhen, China. I developed a particular fascination with three core domains: 1. Genome sequencing technologies advancing personalized diagnostics; 2. End-to-end data analysis pipelines enabling rapid genomic insights; 3. Population health screening applications leveraging polygenic risk scores. Given the opportunity, I would eagerly continue engaging with BGI's experts to further explore such applications.
+<br>Driven by a deep fascination with genomic technologies, I independently arranged a visit to BGI Genomics—a global leader in precision medicine headquartered in Shenzhen, China. I developed a particular fascination with three core domains: 
+- 1. Genome sequencing technologies advancing personalized diagnostics. 
+- 2. End-to-end data analysis pipelines enabling rapid genomic insights. 
+- 3. Population health screening applications leveraging polygenic risk scores. Given the opportunity, I would eagerly continue engaging with BGI's experts to further explore such applications.
 
-<img src="/images/JT.JPG">
+<br><img src="/images/JT.JPG">
 
 <br>Fascinated by the transformative potential of AI in drug discovery, I actively sought opportunities to witness its industrial applications firsthand. Against the backdrop of the AI technology boom and its disruptive impact on pharmaceutical R&D, I was fortunate to arrange a visit to XtalPi—the pioneering quantum physics-based, AI-powered, and robotics-driven drug discovery platform company listed on the Hong Kong Stock Exchange. As Discussed with XtalPi engineers how AI powers novel drug target discovery and development, I got a blueprint for AI drug discovery.
 
