@@ -41,11 +41,11 @@ links:
   - title: About Me
     url: /
   - title: Publications
-    url: Publications/
+    url: publication/
   - title: Awards
-    url: /Awards/
+    url: /award/
   - title: Hobbies
-    url: /Hobbies/
+    url: /hobby/
   # - title: Startups
     # url: /startups/
   # - title: Blogs
