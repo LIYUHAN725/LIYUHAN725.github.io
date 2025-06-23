@@ -10,17 +10,15 @@ title: Awards
 
 - Oct 2024：**Molecular Insights into traditional Chinese Medicine Compounds for the Treatment of Ischemic Stroke**
 
+<div class="second">
 <img src="https://LIYUHAN725.github.io/images/1021Poster Edited.png">
-
-Certificate of Appreciation
-
 <img src="https://LIYUHAN725.github.io/images/Molecular.png">
-
+</div>
 <br>
 
 - Aug 2024：**Programming for Everybody (Getting Started with Python)**
 
-<img src="https://LIYUHAN725.github.io/images/Python.png">
+<br><img src="https://LIYUHAN725.github.io/images/Python.png">
 
 <br>
 
