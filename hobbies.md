@@ -8,12 +8,12 @@ title: Hobbies
 
 ## Swimming & Surfing
 
-<div class="third">
+<div class="first">
 <img src="/images/b1.JPG">
 <img src="/images/b2.JPG">
 <img src="/images/b3.JPG">
 </div>
-<br>Badminton energizes my spirit, sharpens my reflexes, and gives me confidence to tackle any obstacle. I particularly love the exhilarating rhythm of quick footwork and precise shots. As a proud member of the Badminton Team at my university, I've also forged lasting friendships with fellow players.
+<br>Badminton energizes my spirit, sharpens my reflexes, and gives me confidence to tackle any obstacle. I particularly love the exhilarating rhythm of quick footwork and precise shots. As a proud member of the **Badminton Team** at my university, I've also forged lasting friendships with fellow players.
 
 ## Professional Exposure
 
