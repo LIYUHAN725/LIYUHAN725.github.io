@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Badminton
 
 <div class="first">
 <img src="/images/b1.JPG">
