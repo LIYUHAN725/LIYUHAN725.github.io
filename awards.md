@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 23th Jun 2025
+> Update: 23rd Jun 2025
 
 ## Certificate
 

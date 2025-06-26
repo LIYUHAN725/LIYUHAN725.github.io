@@ -17,7 +17,7 @@ title: Hobbies
 
 ## Professional Exposure
 
-<div class="second">
+<div class="first">
 <img src="/images/BGI_1.JPG">
 <img src="/images/BGI_2.jpg">
 </div>
@@ -31,7 +31,7 @@ title: Hobbies
 
 <br>Fascinated by the transformative potential of AI in drug discovery, I actively sought opportunities to witness its industrial applications firsthand. Against the backdrop of the AI technology boom and its disruptive impact on pharmaceutical R&D, I was fortunate to arrange a visit to **XtalPi**—the pioneering quantum physics-based, AI-powered, and robotics-driven drug discovery platform company listed on the Hong Kong Stock Exchange. As discussed with **XtalPi** engineers how AI powers novel drug target discovery and development, I got a blueprint for AI drug discovery.
 
-<div class="forth">
+<div class="first">
 <img src="/images/FX_1.JPG">
 <img src="/images/FX_2.JPG">
 <img src="/images/CYY.JPG">
