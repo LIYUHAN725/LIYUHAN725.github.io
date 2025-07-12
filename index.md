@@ -8,7 +8,7 @@ layout: page
 
 <img src="" class="floatpic">
 
-Hi, I'm Yuhan Li – a pharmacology explorer at Macau University of Science and Technology! In our State Key Lab, I've published two SCI papers on inflammation pathways while actively investigating cerebrovascular and ion channel mysteries.
+Hi, I'm Yuhan Li – a pharmacology explorer at Macau University of Science and Technology! In our Dr. Neher’s Nobel Laureate Biophysics Laboratory, I've published two SCI papers on inflammation pathways.
 <br>
 
 **My journey extends beyond the lab:**
