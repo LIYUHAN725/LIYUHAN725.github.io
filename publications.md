@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## Journal Paper
+## <font color="#0b4163">Journal Paper</font>
 
 - [Lycorine Pre-Treatment Alleviates Microglia Inflammation After Cerebral Ischemia by Inhibiting NF-κB Phosphorylation](https://pubmed.ncbi.nlm.nih.gov/40149811/) (MDPI, IF:3.3), Co-first author<br>Brain Sci. 2025;15(3):290.<br>doi:10.3390/brainsci15030290
 

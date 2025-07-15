@@ -29,7 +29,7 @@ Driven to bridge lab breakthroughs with patient impact – let's connect! **[yuh
 
 ---
 
-## Research Interests
+## <font color="#0b4163">Research Interests</font>
 
 - Neurobiology
 - Oncology
@@ -39,7 +39,7 @@ Driven to bridge lab breakthroughs with patient impact – let's connect! **[yuh
 
 ---
 
-## Skills
+## <font color="#0b4163">Skills</font>
 
 ### Wet Lab
 

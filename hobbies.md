@@ -4,9 +4,7 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
-
-## Badminton
+## <font color="#0b4163">Badminton</font>
 
 <div class="first">
 <img src="/images/b1.JPG">
@@ -15,7 +13,7 @@ title: Hobbies
 </div>
 <br>Badminton energizes my spirit, sharpens my reflexes, and gives me confidence to tackle any obstacle. I particularly love the exhilarating rhythm of quick footwork and precise shots. As a proud member of the **Badminton Team** at my university, I've also forged lasting friendships with fellow players.
 
-## Professional Exposure
+## <font color="#0b4163">Professional Exposure</font>
 
 <div class="first">
 <img src="/images/BGI_1.JPG">

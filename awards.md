@@ -6,7 +6,7 @@ title: Awards
 
 > Update: 23rd Jun 2025
 
-## Certificate
+## <font color="#0b4163">Certificate</font>
 
 - Oct 2024：**Molecular Insights into traditional Chinese Medicine Compounds for the Treatment of Ischemic Stroke**
 
