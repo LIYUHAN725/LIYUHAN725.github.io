@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## <font color="blue">About Me</font>
+## About Me
 
   <br>
 
